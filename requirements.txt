@@ -1,0 +1,6 @@
+plotnine
+scikit-misc
+pandas
+gapminder
+numpy
+pyreadr
